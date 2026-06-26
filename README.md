@@ -32,6 +32,17 @@ The game focuses on when to deploy:
 ### Option B: Open the file directly
 You can open `index.html` directly, but a local server is more reliable across browsers.
 
+## Deploy on GitHub Pages (recommended for school devices)
+This repository is set up to deploy automatically to GitHub Pages when you push to `main`.
+
+### One-time setup in GitHub
+1. Go to your repo on GitHub.
+2. Open Settings → Pages.
+3. Under Build and deployment, set Source to GitHub Actions.
+
+After that, every push to `main` publishes the site. The Pages URL usually looks like:
+- https://<your-username>.github.io/<repo-name>/
+
 ## How to play (student instructions)
 1. Read the scenario for each phase.
 2. Choose an option (2–4 choices).
